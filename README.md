@@ -20,3 +20,6 @@ Special thanks to Coraline of the 3DGE team for allowing us to use her README.md
 
 To build GZDoom, please see the [wiki](https://zdoom.org/wiki/) and see the "Programmer's Corner" on the bottom-right corner of the page to build for your platform.
 
+## Attention from Andrey "EarKiller6002" Perfiliev
+ATTENTION!
+I did not change anything global in this version of GZDoom. I just made changes to the files located in "wadsrc/static", which are located in the "gzdoom.pk3" file
